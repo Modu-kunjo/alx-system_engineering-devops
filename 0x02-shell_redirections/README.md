@@ -1,1 +1,1 @@
-Script for file for directing input and output standart
+Script for excuting commands
